@@ -1,0 +1,32 @@
+{
+  "TermsOfServiceVersion": 1,
+  "TermsAgreedToWhen": "2023-04-06T17:11:24Z",
+  "IdClaims": [
+    {
+      "Claim": "t:thewayfarerx"
+    },
+    {
+      "Claim": "gh:wayfarerx"
+    },
+    {
+      "Claim": "yt:@wayfarerx9113"
+    },
+    {
+      "Claim": "mdon:@wayfarerx@mastodon.social"
+    },
+    {
+      "Claim": "post:wayfarerx"
+    }
+  ],
+  "IdDisclaims": null,
+  "Signature": {
+    "Authority": "https://whosum.com",
+    "PublicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApF0NC9C13limzP9H5\u002BcXoWEddOfjDdysecEWNhNxS3yCWdRJjsCpIWY3euUxIFWw9W9Zkbo1tx8YbnLVdCPd7qORelTZZR5I9IvQdsyyqZIeAuw4xk/VcK119Kme13cqhsjOtgCrdekjz5YEklZqXdZKclJMc2fqHjOfHl07lYXWmqx8FxCUjjGCkBcr4WZD/uvs0SXRACkXS01bP0Wbao1sHxyFoADHV5i8Yvg2o32Sy37DMMMOfjO8ZpqqwNKVEs04gGL\u002BnGkDqNP/6lIaTinrzCJe57qcorGcVlWGdV4nC5uMgIgqZ/7pzrCHF5WbXai3g3AObmPJ5eG8TCTsrQIDAQAB",
+    "Nonce": "e5a91227c82ee28d2a0fd141",
+    "Timestamp": "2023-04-06T17:19:55Z",
+    "Signature": "2acceb852e45e5571e56b62c3c73bd460729a97c9ae320cbee6e3b7e0d5beaeab5d89cbf5f3bf75ab1741c20bce30284b61984feb523bcaa9a82b96b863438442e9b6890f10bc696ca9f946dc18c9f49d0bc505e0e941ebbc47aba10f6491edbe323a3307251d20054e605d9ceaa67d356ee8569a56909f5e820470e07f29f4f103e20af93fd1a2a4e90a2f37058b9a4261fb8499b1150d9881064737ad0409f45ab5cb7c0f2403259a2df7d7b3977ac5f104c92808e3372916008333861f24d422b14b22a40398fe73ef13c4ea32139c35dcb3378bc212dac674ee197045855d2f745bf44df94a8d431a4ff70ee45fe07a077c3e44f6efb2a6fea020ca1b6e0"
+  },
+  "AgreedToTerms": true,
+  "ContentSha256": "52ed93e609d166946b45ed5c94d1f5e31cf86394a1f5012f5a91ea100d935520",
+  "ContentToHash": "v1|gh:wayfarerx,mdon:@wayfarerx@mastodon.social,post:wayfarerx,t:thewayfarerx,yt:@wayfarerx9113|2023-04-06T17:11:24Z"
+}
